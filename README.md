@@ -8,6 +8,9 @@ WGU is an accredited university, however, when reading my score report it is wor
 It uses its own system of what are called Competencies. I got a perfect score on this assignment so that distinction is not as importa
 nt here, but that will explain why you see "Competent" over and over in the score report instead of a GPA score.
 
+I've included 2 pdf files that show the assignment prompt and my score as well as a UMP Diagram of the program structure.
+
+
 A video walkthrough of my finished assignment can be found [here](https://youtu.be/BLtePhuMjMU).
 
 ![Main Form](mainform.png)
