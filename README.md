@@ -9,3 +9,9 @@ nt here, but that will explain why you see "Competent" over and over in the scor
 A video walkthrough of my finished assignment can be found [here](https://youtu.be/BLtePhuMjMU).
 
 
+### Specs:
+This project uses jdk-11.0.12 for the Java SDK, and javafx-sdk-11.0.2 for the JavaFX Library. 
+JavaFX is an open source library that is basically used for front-end GUI elements. 
+In order to future-proof this repo, I have included both sdks in the repo itself.
+I used git lfs to push these up to git. 
+
