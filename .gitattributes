@@ -3,3 +3,5 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.lib filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
+jdk-11.0.12/lib/modules filter=lfs diff=lfs merge=lfs -text
+*modules* filter=lfs diff=lfs merge=lfs -text
